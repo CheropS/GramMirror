@@ -4,4 +4,4 @@
 npm install date-fns
 npm install firebase
 npm install react-loading-skeleton 
-npm install eslint
+npm init @eslint/config
