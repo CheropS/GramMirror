@@ -15,3 +15,15 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 // reportWebVitals();
+
+//folder structure
+//src
+    // -> components, 
+    // constants, 
+    // contexts, 
+    // helpers, 
+    // hooks
+    // pages
+    // lib (firebase is going live)
+    // services
+    // styles (tailwin  folder (app/tailwind))
